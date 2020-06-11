@@ -1,0 +1,21 @@
+header hl {
+	font-size: 40pt;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+nav {
+	font-size: lбpt;
+	width: 150рх;
+	float: left;	
+}
+
+nav а {
+	display: block;
+	margin: 10px 0px;
+	
+}
+
+section {
+	margin-left: 170px;
+}
